@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gqmz
-- 👀 I’m interested in machine learning for computer vision 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in applying machine learning methods in manufacturing and computer vision.
 - 📫 You can reach me at clarke2lindor@gmail.com
 
 <!---

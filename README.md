@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gqmz
 - 👀 I’m interested in applying machine learning methods in manufacturing and computer vision.
-- 📫 You can reach me at clarke2lindor@gmail.com
+- 📫 You can reach me at garyqm@gmail.com
 
 <!---
 gqmz/gqmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
